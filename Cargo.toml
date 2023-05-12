@@ -1,0 +1,14 @@
+[package]
+name = "mini_service_locator"
+version = "0.1.0"
+edition = "2021"
+description = "A simple Service Locator implementation."
+authors = ["Ethan McTague"]
+repository = "https://github.com/emctague/mini_service_locator"
+homepage = "https://github.com/emctague/mini_service_locator"
+license = "MIT"
+keywords = []
+categories = []
+
+[dependencies]
+any_handle = "0.1"
